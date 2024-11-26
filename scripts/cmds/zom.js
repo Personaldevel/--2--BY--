@@ -5,7 +5,7 @@ module.exports = {
 	config: {
 		name: "zom",
 		aliases: [],
-		author: "Who's Deku/kira", // hindi ito collab, ako kasi nag convert :>
+		author: "Vin-cent", // hindi ito collab, ako kasi nag convert :>
 		version: "69",
 		cooldowns : 5,
 		role: 0,
