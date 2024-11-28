@@ -28,7 +28,7 @@
   "OWNER": "Vincent",
   "AGE": "17",
   "GENDER": "MALE",
-  "nickNameBot": "𝙕𝙚𝙣𝙑-2 『𝗈𝗐𝗇𝖾𝗋』: 𝗩𝗜𝗡𝗖𝗘𝗡𝗧",
+  "nickNameBot": "『=』𝙕𝙚𝙣𝙑2『𝗈𝗐𝗇𝖾𝗋』: 𝗩𝗜𝗡𝗖𝗘𝗡𝗧",
   "FACEBOOK": "https://www.facebook.com/100090775159086",
   "prefix": "=",
   "database": {
@@ -41,8 +41,8 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
-      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
+      "email": "vincentpai488gmail.com",
+      "clientId": "61566919083863-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
       "apiKey": ""
